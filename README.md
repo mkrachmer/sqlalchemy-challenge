@@ -83,6 +83,6 @@ Now that you’ve completed your initial analysis, you’ll design a Flask API b
 
 Referenced many solved module examples from bootcamp materials.
 
-Referenced a similar project by JLeigh101 found on Google, used to help troubleshoot the API dynamic routes. https://github.com/JLeigh101/sqlalchemy-challenge
+Referenced a similar project by JLeeigh101 found on Google, used to help troubleshoot the API dynamic routes. https://github.com/JLeigh101/sqlalchemy-challenge
 
 Referenced Chat GPT to help troubleshoot errors upon execution.
