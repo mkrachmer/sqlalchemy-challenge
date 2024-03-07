@@ -80,3 +80,9 @@ Now that you’ve completed your initial analysis, you’ll design a Flask API b
     - Return a JSON list of the minimum temperature, the average temperature, and the maximum temperature for a specified start or start-end range. For a specified start, calculate TMIN, TAVG, and TMAX for all the dates greater than or equal to the start date. For a specified start date and end date, calculate TMIN, TAVG, and TMAX for the dates from the start date to the end date, inclusive.
 
 # References
+
+Referenced many solved module examples from bootcamp materials.
+
+Referenced a similar project by JLeigh101 found on Google, used to help troubleshoot the API dynamic routes. https://github.com/JLeigh101/sqlalchemy-challenge
+
+Referenced Chat GPT to help troubleshoot errors upon execution.
